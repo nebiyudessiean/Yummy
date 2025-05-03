@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'components/theme_button.dart';
 import 'components/color_button.dart';
+import 'components/category_card.dart';
+import 'models/food_category.dart';
 import 'constants.dart';
 
 class Home extends StatefulWidget {
